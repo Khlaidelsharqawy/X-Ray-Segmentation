@@ -1,8 +1,8 @@
  AI-Clinic: Chest X-Ray Segmentation & Classification
 
-An end-to-end deep learning system for medical imaging diagnostic assistance. This project automates the isolation of lung tissues from Chest X-Rays and classifies respiratory conditions to prevent data distribution shifts caused by background noise.
+An end-to-end computervision system for medical imaging diagnostic assistance. This project automates the isolation of lung tissues from Chest X-Rays and classifies respiratory conditions to prevent data distribution shifts caused by background noise.
 
-**Project Team:** Khaled El-Sharkawy, Ahmed Bassem, Ahmed Adel, Yousef Usama, Abdulrahman Ahmed (Artificial Intelligence Dept., New Ismailia National University).
+**Project Team:** Khaled El-Sharkawy, Ahmed Bassem, Ahmed Adel, Yousef Usama, Abdulrahman Ahmed (NTI Summer Training).
 
 ---
 
