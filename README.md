@@ -1,4 +1,4 @@
-here# 🩺 AI-Clinic: Chest X-Ray Segmentation & Classification
+ AI-Clinic: Chest X-Ray Segmentation & Classification
 
 An end-to-end deep learning system for medical imaging diagnostic assistance. This project automates the isolation of lung tissues from Chest X-Rays and classifies respiratory conditions to prevent data distribution shifts caused by background noise.
 
@@ -6,7 +6,7 @@ An end-to-end deep learning system for medical imaging diagnostic assistance. Th
 
 ---
 
-**🎯 Project Overview**
+** Project Overview**
 Medical AI models often overfit to irrelevant artifacts in X-rays (e.g., bones, medical instruments, or text). This project solves this by using a dual-model pipeline:
 1. **Segmentation (U-Net):** Acts as a "smart scissors" to extract only the lung tissue.
 2. **Classification (DenseNet121):** Analyzes the isolated lungs against a pure black background to diagnose the disease with high confidence.
