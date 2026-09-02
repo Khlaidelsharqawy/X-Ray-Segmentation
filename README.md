@@ -6,12 +6,12 @@ An end-to-end computer vision system for medical imaging diagnostic assistance. 
 
 ---
 
-** Project Overview**
+**Project Overview**
 Medical AI models often overfit to irrelevant artifacts in X-rays (e.g., bones, medical instruments, or text). This project solves this by using a dual-model pipeline:
 1. **Segmentation (U-Net):** Acts as a "smart scissors" to extract only the lung tissue.
 2. **Classification (DenseNet121):** Analyzes the isolated lungs against a pure black background to diagnose the disease with high confidence.
 
-** Key Features**
+**Key Features**
 * **Dynamic Masking:** Automatically isolates lungs before passing them to the classifier.
 * **High Accuracy:** Mitigates the "Garbage In, Garbage Out" problem by removing out-of-distribution background noise.
 * **Interactive GUI:** Deployed via Streamlit for real-time inference and visual diagnostic feedback (Original X-Ray $\rightarrow$ Mask $\rightarrow$ Isolated Lungs $\rightarrow$ Diagnosis).
