@@ -4,7 +4,7 @@ An end-to-end computer vision system for medical imaging diagnostic assistance. 
 
 **Project Team:** Khaled El-Sharkawy, Ahmed Bassem, Ahmed Adel, Yousef Usama, Abdulrahman Ahmed (NTI Summer Training).
 
----
+----
 
 **Project Overview**
 Medical AI models often overfit to irrelevant artifacts in X-rays (e.g., bones, medical instruments, or text). This project solves this by using a dual-model pipeline:
