@@ -25,7 +25,7 @@ Medical AI models often overfit to irrelevant artifacts in X-rays (e.g., bones, 
 * **Deep Learning:** TensorFlow, Keras
 * **Computer Vision:** OpenCV (`opencv-python-headless`), Pillow
 * **Data Processing:** NumPy, Pandas, Scikit-learn
-* **Deployment:** Streamlit Community Cloud (Python 3.10)
+* **Deployment:** Streamlit Community Cloud (Python 3.10)ز
 
 **Local Installation & Setup**
 
